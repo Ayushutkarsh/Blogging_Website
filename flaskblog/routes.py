@@ -151,6 +151,7 @@ def send_reset_email(user):
     msg = Message('Password Reset Request', sender='noreply@test.com', recipients=[user.email])
     msg.body='Please follow the link for reset password {url}'.format(url=url_for('reset_token', token=token,_external=True))
     mail.sen(msg)
+    
 @app.route('/reset_password',methods=['GET','POST'])
 def reset_request():
     if current_user.is_authenticated:
