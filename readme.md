@@ -8,6 +8,9 @@ Below are a few screenshots of the presently available features.
 ## View Posts
 ![Screenshot (2)](https://user-images.githubusercontent.com/10278430/63555667-778ff980-c55f-11e9-8c11-71f6124956ea.png)
 
+## View All Posts By A User
+![Screenshot (6)](https://user-images.githubusercontent.com/10278430/63555806-0270f400-c560-11e9-804a-92416a6d6bc9.png)
+
 ## Update Posts
 ![Screenshot (3)](https://user-images.githubusercontent.com/10278430/63555668-78289000-c55f-11e9-9ff3-3a3ff1d322ee.png)
 
